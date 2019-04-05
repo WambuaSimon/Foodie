@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "788440215081",
+    "firebase_url": "https://narse-5c464.firebaseio.com",
+    "project_id": "narse-5c464",
+    "storage_bucket": "narse-5c464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788440215081:android:b3900eb7abdcda9d",
+        "android_client_info": {
+          "package_name": "com.foodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHRBgggW3t-zM9gYCsmUyuoHqXPpaHdrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788440215081-f2hr7auhtvddc15pnmkci8n7pk89dsre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
